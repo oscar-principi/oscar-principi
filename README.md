@@ -44,7 +44,3 @@
     </footer>
 </body>
 </html>
-
-----
-
-Last Edited on: 20/07/2024
