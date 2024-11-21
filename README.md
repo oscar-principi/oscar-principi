@@ -21,7 +21,8 @@
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42"/>
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-                <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="java" width="40" height="40"/>
+                <img src="https://iconape.com/wp-content/files/pd/353150/png/microsoft-net-framework-logo.png" alt=".net" width="40" height="40"/>
+                <!--<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="java" width="40" height="40"/>-->
                 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" alt="sql" width="40" height="40"/>                
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="40" height="40">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
