@@ -6,16 +6,12 @@
 </head>
 <body>
     <header>
-        <h1>👋 Hi, i am Oscar</h1>
-        <p align="center">Estudiante Programacion - UTN FRGP</p>
+        <h1>👋Hola, soy Oscar</h1>
+        <p align="center">Estudiante Programación - UTN FRGP</p>
         <p align="center"><img src="https://informatecdigital.com/wp-content/uploads/2024/02/Imagen_2023-12-22-14_36_14-800x430-1.png.webp" alt="Foto de portada"></p>
     </header>
-    <section id="about">
-        <h2>🙋‍♀️ About me</h2>
-        <p align="center"></p>
-    </section>
     <section id="skills">
-        <h2>🛠️ Tecnologias </h2>
+        <h2>🛠️ Tecnologías </h2>
         <div style="display: flex; gap: 10px;">
             <p align="center">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42"/>
