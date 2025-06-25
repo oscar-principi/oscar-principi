@@ -7,15 +7,15 @@
 <body>
     <header>
         <h1>👋 Hi, i am Oscar</h1>
-        <p align="center">Programming and Information Systems Student - UTN FRGP</p>
+        <p align="center">Estudiante Programacion - UTN FRGP</p>
         <p align="center"><img src="https://informatecdigital.com/wp-content/uploads/2024/02/Imagen_2023-12-22-14_36_14-800x430-1.png.webp" alt="Foto de portada"></p>
     </header>
     <section id="about">
         <h2>🙋‍♀️ About me</h2>
-        <p align="center">I am a student studying Programming and Information Systems at the UTN FRGP, eager to learn and develop in the IT field.</p>
+        <p align="center"></p>
     </section>
     <section id="skills">
-        <h2>🛠️ Languages and Tools </h2>
+        <h2>🛠️ Tecnologias </h2>
         <div style="display: flex; gap: 10px;">
             <p align="center">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42"/>
@@ -36,7 +36,7 @@
         </div>
     </section>    
     <footer>
-        <h2>🤝 Connect with me</h2>
+        <h2>🤝 Contactame</h2>
             <p align="center">
                 <a href = 'https://www.linkedin.com/in/oscar-principi'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
                 <a href = 'mailto: principioscar89@gmail.com'> <img width = '45px' align= 'center' src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png"/></a>
