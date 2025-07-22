@@ -15,7 +15,6 @@
             <p align="center">
                 <a href = 'https://www.linkedin.com/in/oscar-principi'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
                 <a href = 'mailto: principioscar89@gmail.com'> <img width = '45px' align= 'center' src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png"/></a>
-                <a href="https://api.whatsapp.com/send?phone=2213043135" target="_blank"> <img width = '45px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"> </a>
             </p>
     </footer>
 </body>
