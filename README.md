@@ -7,7 +7,7 @@
 <body>
     <header>
         <h1>👋Hola, soy Oscar</h1>
-        <p align="center">Estudiante de Programación - UTN FRGP</p>
+        <p align="center">Técnico en Programación - UTN FRGP</p>
         <p align="center"><img src="https://informatecdigital.com/wp-content/uploads/2024/02/Imagen_2023-12-22-14_36_14-800x430-1.png.webp" alt="Foto de portada"></p>
     </header>
     <footer>
