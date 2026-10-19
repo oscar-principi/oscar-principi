@@ -11,7 +11,6 @@
         <p align="center"><img src="https://informatecdigital.com/wp-content/uploads/2024/02/Imagen_2023-12-22-14_36_14-800x430-1.png.webp" alt="Foto de portada"></p>
     </header>
     <footer>
-        <h2>🤝 Contactame</h2>
 <p align="center">
   <a href="https://oscarprincipi.com.ar">
     <img src="https://img.shields.io/badge/Portfolio-Visitar%20sitio-18181b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
